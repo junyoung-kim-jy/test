@@ -28,3 +28,4 @@ while basket > 0:
   totalerning = totalerning + erning
   print("남은 수량 : %d \n 총 수입 : %d" %(basket, totalerning))
 #test
+print("종료")
